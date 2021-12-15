@@ -1,0 +1,42 @@
+{
+    "username": "",
+    "password": "",
+    "nome": "João de Souza",
+    "genero": "M",
+    "cpf": "05385733467",
+    "rg": "4509356834",
+    "cnh": "598769",
+    "pis_pasep": "9856349",
+    "dataNascimento": "2021-12-15",
+    "eleitorNumero": "4375385",
+    "nomeMae": "Maria Sousa",
+    "nomePai": "Romário de Jesus",
+    "naturalidade": "São Luis",
+    "cargo": "Técnico em Radiologia",
+    "endereco": {
+        "cidade": "São José de Ribamar",
+        "numero": "10",
+        "rua": "João Martella",
+        "bairro": "Piçarreira",
+        "cep": "65110000"
+    },
+     "contato": {
+        "telefone": "334345600",
+        "celular": "98984212788",
+        "email": "joao@gmail.com"
+    },
+    "documento": [
+        {"filePath": "7yr37r44wewqe", "fileNome": "carteira_de_trabalho","categoria": "Carteira de Trabalho","formato": "pdf"},
+        {"filePath": "7yr3rgwr44wew", "fileNome": "rg_001","categoria": "Registro Geral - RG","formato": "pdf"},
+        {"filePath": "frfeferfferfe", "fileNome": "comprovante_residen","categoria": "Comprovante de Residência","formato": "pdf"}
+    ],
+    "foto": "my_p"
+}
+
+{
+    "tipoSolicitacao": "",
+    "documento": [],
+    "data": null,
+    "status": false,
+    "deferida": false
+}
